@@ -24,33 +24,39 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Screenshot
 
+**Desktop View**
 
 ![screely-1664462833278](https://user-images.githubusercontent.com/80857344/193063811-bc8b517a-eaa5-4e75-9678-82dc1347c276.png)
+
+**Mobile View**
+
+![screely-1664463637690](https://user-images.githubusercontent.com/80857344/193067584-65ee1bd8-c713-4464-ab03-d08db297c8ca.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://creatiquemedia.github.io/CM-GHP-Post-0006-20220927-Order-Summary-Component/))
+- Solution URL: [Add solution URL here]((https://github.com/CreatiqueMedia/CM-GHP-Post-0006-20220927-Order-Summary-Component)
+- Live Site URL: [Add live site URL here](https://creatiquemedia.github.io/CM-GHP-Post-0006-20220927-Order-Summary-Component)
 
 ## My process
+
+After I download the Frontend Mentor challenge, I will decompress the zip folder. Then, I will rename the folder to whatever my post title will be for my blog. I then drag the folder to the VS Code icon in my menu on my Macbook to open it up. Then, I rename the "images" folder to "assets" because this is what I am used to. Then, I create a separate folder within the parent Dev folder and name it "css". I always use lower case to name my folders! Then, I will create a "main.css" file within the "css" folder. Next, I will link the "main.css" file as a stylesheet in my <head> section in the "index.html" file.  
+ After this, I simply start coding!
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- BEM CSS sructure
 
 ### What I learned
 
 That FlexBox is awesome, as usual!
 
 ## Author
+ 
+ Ron The Web Dev Owner of CreatiqueMedia LLC
 
 - Website - [CreatiqueMedia](https://www.CreatiqueMedia.com)
 - Blog - [CreatiqueMedia LLC | Ron The Web Dev Blog](https://www.Blog.CreatiqueMedia.com)
