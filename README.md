@@ -33,7 +33,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: ((https://github.com/CreatiqueMedia/CM-GHP-Post-0006-20220927-Order-Summary-Component)
+- Solution URL: (https://github.com/CreatiqueMedia/CM-GHP-Post-0006-20220927-Order-Summary-Component)
 - Live Site URL: (https://creatiquemedia.github.io/CM-GHP-Post-0006-20220927-Order-Summary-Component)
 
 ## My process
@@ -56,10 +56,10 @@ That FlexBox is awesome, as usual!
  
  Ron The Web Dev Owner of CreatiqueMedia LLC
 
-- Website - [CreatiqueMedia](https://www.CreatiqueMedia.com)
-- Blog - [CreatiqueMedia LLC | Ron The Web Dev Blog](https://www.Blog.CreatiqueMedia.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [CreatiqueMedia](https://CreatiqueMedia.com)
+- Blog - [CreatiqueMedia LLC | Ron The Web Dev Blog](https://Blog.CreatiqueMedia.com)
+- Frontend Mentor - [@yourusername](https://frontendmentor.io/profile/yourusername)
 - Twitter - [@creatiquemedia1](https://twitter.com/creatiquemedia1)
-- Facebook - [creatiquemediallc](https://www.facebook.com/creatiquemediallc)
-- Instagram - [@creatiquemedia](https://www.instagram.com/creatiquemedia)
+- Facebook - [creatiquemediallc](https://acebook.com/creatiquemediallc)
+- Instagram - [@creatiquemedia](https://instagram.com/creatiquemedia)
 
