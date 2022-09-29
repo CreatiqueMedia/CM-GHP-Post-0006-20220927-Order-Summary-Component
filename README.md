@@ -14,8 +14,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -35,8 +33,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here]((https://github.com/CreatiqueMedia/CM-GHP-Post-0006-20220927-Order-Summary-Component)
-- Live Site URL: [Add live site URL here](https://creatiquemedia.github.io/CM-GHP-Post-0006-20220927-Order-Summary-Component)
+- Solution URL: ((https://github.com/CreatiqueMedia/CM-GHP-Post-0006-20220927-Order-Summary-Component)
+- Live Site URL: (https://creatiquemedia.github.io/CM-GHP-Post-0006-20220927-Order-Summary-Component)
 
 ## My process
 
